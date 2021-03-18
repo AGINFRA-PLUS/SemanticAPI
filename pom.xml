@@ -17,7 +17,7 @@
         <graphdb.version>7.0-SNAPSHOT</graphdb.version>
         <graphdb.artifact.id>graphdb-se</graphdb.artifact.id>
         <neo4j.version>3.1.5</neo4j.version>
-        <elasticsearch.version>7.4.0</elasticsearch.version>
+        <elasticsearch.version>7.11.2</elasticsearch.version>
         <tomcat.version>8.5.37</tomcat.version>
     </properties>
 
